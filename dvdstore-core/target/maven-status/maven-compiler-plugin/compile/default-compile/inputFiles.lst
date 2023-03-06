@@ -1,0 +1,6 @@
+/Users/dylandivito/DEV/JAVA/dvdstore-core/src/main/java/com/mycompany/dvdstore/service/MovieServiceInterface.java
+/Users/dylandivito/DEV/JAVA/dvdstore-core/src/main/java/com/mycompany/dvdstore/repository/file/FileMovieRepository.java
+/Users/dylandivito/DEV/JAVA/dvdstore-core/src/main/java/com/mycompany/dvdstore/repository/memory/MemoryMovieRepository.java
+/Users/dylandivito/DEV/JAVA/dvdstore-core/src/main/java/com/mycompany/dvdstore/service/DefaultMovieService.java
+/Users/dylandivito/DEV/JAVA/dvdstore-core/src/main/java/com/mycompany/dvdstore/entity/Movie.java
+/Users/dylandivito/DEV/JAVA/dvdstore-core/src/main/java/com/mycompany/dvdstore/repository/MovieRepositoryInterface.java
